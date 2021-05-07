@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace comecando_csharp
+namespace ComecandoCsharp
 {
     class Program
     {
