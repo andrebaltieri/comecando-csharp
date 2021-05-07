@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>comecando_csharp</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>ComecandoCsharp</RootNamespace>
   </PropertyGroup>
 
 </Project>
